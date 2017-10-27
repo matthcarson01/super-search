@@ -1,0 +1,19 @@
+.card{
+    max-width: 18.75rem;
+    height: auto;
+    margin: 1rem;
+    -webkit-box-shadow: 9px 10px 16px -5px rgba(0,0,0,0.75);
+    -moz-box-shadow: 9px 10px 16px -5px rgba(0,0,0,0.75);
+    box-shadow: 9px 10px 16px -5px rgba(0,0,0,0.75);
+}
+.card .wrapper{
+    max-height: 20rem;
+    overflow: hidden;
+}
+.card .img-fluid{
+    width: 18.75rem;
+    height: auto;
+}
+.card-body{
+    text-align: left;
+}
